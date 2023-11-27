@@ -10,6 +10,9 @@ public class Set {
         MutableSet<String> emptySet =
                 Sets.mutable.empty();
 
+        emptySet.add("1");
+        emptySet.add("1");
+
         emptySet.each(System.out::print);
 
         System.out.println();
