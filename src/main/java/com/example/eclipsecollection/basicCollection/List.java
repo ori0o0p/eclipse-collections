@@ -1,4 +1,4 @@
-package com.example.eclipsecollection.collection;
+package com.example.eclipsecollection.basicCollection;
 
 import org.eclipse.collections.api.factory.Lists;
 import org.eclipse.collections.api.list.ImmutableList;
